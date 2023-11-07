@@ -130,6 +130,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Blacksmithing.ixx" />
+    <ClCompile Include="BlacksmithingGame.ixx" />
+    <ClCompile Include="BlacksmithingSolver.ixx" />
     <ClCompile Include="BlacksmithingSolver_cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -18,6 +18,12 @@
     <ClCompile Include="BlacksmithingSolver_cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BlacksmithingGame.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlacksmithingSolver.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Blacksmithing.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
